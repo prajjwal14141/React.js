@@ -5,5 +5,5 @@ The goal is to understand React deeply by building small examples every day and 
 
 ## Topics Covered
 
-Day 1 – React Basics & Components
-Day 2 - Props, Lists & JSX workflow
+- Day 1 – React Basics & Components
+- Day 2 - Props, Lists & JSX workflow
