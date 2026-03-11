@@ -7,3 +7,4 @@ DAY-2
 - Props in react allow us to pass sme data betwen components.
 - Props are always passed FROM PARENT TO CHILD component.
 - To recieve, use (props) as the argument while defining the child component.
+- 'children' keyword.
