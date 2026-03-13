@@ -7,4 +7,4 @@ The goal is to understand React deeply by building small examples every day and 
 
 - Day 1 – React Basics & Components
 - Day 2 - Props, Lists & JSX workflow
-- Day 3 - useState() Hook
+- Day 3 - Hook- useState()
