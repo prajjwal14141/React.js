@@ -8,3 +8,8 @@
 - When state changes, React re-renders the component.
 - state → current value, setState → function to update state, initialValue → starting value
 - Example: const [count, setCount] = useState(0);
+
+###### Portals
+- Portal lets you render a component outside the normal DOM hierarchy of your React app, while it still behaves like part of the React component tree.
+
+- React provides this through createPortal from the React API.
